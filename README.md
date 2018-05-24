@@ -1,4 +1,4 @@
-This project is a demonstration of the Pmod VGA with the Cora Z7-07S. With the Pmog VGA plugged into Pmod connectors JA and JB, a 1080p test screen is generated on the connected VGA monitor. This screen consists of gradient color bars and a point bouncing around in a box in the lower left hand corner of the screen.
+This project is a demonstration of the Pmod VGA with the Cora Z7-07S. With the Pmod VGA plugged into Pmod connectors JA and JB, a 1080p test screen is generated on the connected VGA monitor. This screen consists of gradient color bars and a point bouncing around in a box in the lower left hand corner of the screen.
 
 In order to use this demo, a [Pmod VGA](reference.digilentinc.com/reference/pmod/pmod-vga/start), a [Cora Z7-07S](reference.digilentinc.com/reference/programmable-logic/cora-z7/start), a VGA Monitor, and a VGA cable are required. For the Cora Z7-10 version of this project, see [this repo](https://github.com/Digilent/Cora-Z7-10-Pmod-VGA).
 
