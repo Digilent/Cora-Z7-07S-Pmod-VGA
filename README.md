@@ -1,6 +1,8 @@
 Cora Z7-07S Pmod VGA Demo
 ==============
 
+IMPORTANT: This repository is obsolete. See the [new demo page](https://digilent.com/reference/programmable-logic/cora-z7/demos/pmod-vga) on Digilent Reference for information about this demo. The sources have been moved into the [07S/XADC/master](https://github.com/Digilent/Cora-Z7/tree/07S/Pmod-VGA/master) branch of the Cora-Z7 repository.
+
 Description
 --------------
 This project is a Vivado demo using the Cora Z7-07S's, Pmod Ports and the Pmod VGA written in VHDL. The Pmod VGA is controlled by the Cora Z7-07S through Pmod ports JA and JB. When programmed onto the board, a bouncing box and many test pattern bars are displayed on a connected VGA monitor. The screen resolution is configurable through HDL code.
